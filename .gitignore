@@ -1,0 +1,16 @@
+# Arduino build outputs
+build/
+*.hex
+*.elf
+*.bin
+*.map
+*.d
+*.o
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
